@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/db.js"],"names":["console","log","callback"],"mappings":";;;;;;kBAAe,oBAAY;AAC1BA,SAAQC,GAAR,CAAY,YAAZ;AACA;AACAC;AACA,C","file":"db.js","sourcesContent":["export default callback => {\n\tconsole.log('chec khere');\n\t// connect to a database if needed, then pass it to `callback`:\n\tcallback();\n}\n"]}
